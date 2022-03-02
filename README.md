@@ -1,17 +1,32 @@
-[![Build Status](https://img.shields.io/badge/platform-Android-green)](https://www.android.com/) [![API](https://img.shields.io/badge/API-+23-brightgreen)](https://android-arsenal.com/api?level=23) [![API](https://img.shields.io/badge/license-MIT-blue)]()
+##  💻 Proyecto - The Movie Db
 
 
-### Project Details
-In the making of this movies app, I developed it using the APIs presented in TheMovieDB, when we log in to the application, we first encounter the main page. Here, the popular and upcoming movies are listed and when we click, we get the details of the movie. We reach the movies with the most votes from the tab next to it. By coming to the search option, we can search the movies database. And finally, we can go into details and see the movies we have added to favorites.
-### How Can I Use
-If you want to use this project, all you have to do is 
-```
-/util/Constant/
-API_KEY = "Your API KEY"
-```
-you can follow this path and use the API you obtained from [TheMovieDB](https://www.themoviedb.org/).
+##  :wave: Bienvenid@s
 
-### Libraries and tools
+
+
+###  🔧 Minium requierements
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.5-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
+
+[![Android Studio](https://img.shields.io/badge/Android_Studio-4.2-blue.svg?longCache=true&style=popout-square)](https://developer.android.com/studio)
+
+[![Android](https://img.shields.io/badge/Android-5.4-green.svg?longCache=true&style=popout-square)](https://www.android.com)
+
+##  :gear: Requierements
+
+- Android Studio
+
+- S.O Windows o MacOS
+
+##  🛠️ Functionality
+
+The Movie DB  is an application that consumes TheMovieDB API to be able to present the data of movies, within this application you will be able to find the catalog of movies, you will be able to indicate your favorite movies, you will be able to see the detail of these and you will also be able to see the related videos
+
+
+
+##  :notebook: Especifications
+
  - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
  - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
  - [DataBinding](https://developer.android.com/topic/libraries/data-binding/)
@@ -22,7 +37,25 @@ you can follow this path and use the API you obtained from [TheMovieDB](https://
  - [Retrofit](https://square.github.io/retrofit/)
  - [OkHttp](https://square.github.io/okhttp/)
  - [Glide](https://github.com/bumptech/glide)
-
-# Architecture
  - [MVVM](https://developer.android.com/jetpack/docs/guide)
+
+
+
+</div>
+
+
+<footer>
+
+<h3> Autores ✒️</h3>
+
+
+* Stuart [![Web](https://img.shields.io/badge/GitHub-StuartGa-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/StuartGa)
+
+
+
+
+
+<footer>
+
+
 
