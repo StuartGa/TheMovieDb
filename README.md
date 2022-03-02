@@ -39,6 +39,18 @@ The Movie DB  is an application that consumes TheMovieDB API to be able to prese
  - [Glide](https://github.com/bumptech/glide)
  - [MVVM](https://developer.android.com/jetpack/docs/guide)
 
+##  :notebook: Missing Specs
+
+-[Filters]:
+In this case, I use the method GET /movie/now_playing to request the list  https://developers.themoviedb.org/3/movies/get-now-playing
+and filter with chips https://material.io/components/chips#choice-chips 
+For popular movies, I use the method GET/movie/popular to request the list https://developers.themoviedb.org/3/movies/get-popular-movies
+and filter with chips https://material.io/components/chips#choice-chips
+then need listen the changes on the chips to request and prepare the fragments lifecycle and present the mutable data
+
+-[offline]:
+first  create local SQLite Date Base then obtained JSON and storage in this database and a flag when the phone doesn't have a internet conection  when phone in offline mode and then send data to web server when phone is online
+
 
 
 </div>
