@@ -1,7 +1,7 @@
-##  💻 Proyecto - The Movie Db
+##  💻 Proyect - The Movie Db
 
 
-##  :wave: Bienvenid@s
+##  :wave: Welcome
 
 
 
