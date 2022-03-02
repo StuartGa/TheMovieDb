@@ -1,4 +1,4 @@
-##  💻 Proyect - The Movie Db
+##  💻 Project - The Movie Db
 
 
 ##  :wave: Welcome
